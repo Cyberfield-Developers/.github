@@ -1,10 +1,11 @@
 Cyberfield Developers is a software company intent on creating apps and games for mobile, desktop, console and browser-based.
 
 Project Ideas
-1. Network Crawler
-2. Lottery Vector
-3. Chess Adventures
-4. Hecatomb Adventures (Blood Brothers)
-5. Snood 21 Adventures (Snood 21)
-6. Pentagon Adventures
+1. Network Crawler - an app that traverses a selected network revealing all devices that are on the network
+2. Lottery Vector - an app that generates a winning lottery number.
+3. Chess Adventures - a mobile game that takes the player through the history that made chess in a turn-based match-3 board game.
+4. Hecatomb Adventures (Blood Brothers) - a dark fantasy RPG mobile game designed from the DeNA based Blood Brothers
+5. Moves21 Adventures (Snood 21) - a mobile solitaire card game based on the motorola Snood 21. The player must solve each moves21 stage to defeat the invading bugs and advance to the next stage.
+6. Pentagon Adventures - a match-3 
 7. All Messenger
+8. 
