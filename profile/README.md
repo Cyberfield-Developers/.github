@@ -6,6 +6,5 @@ Project Ideas
 3. Chess Adventures - a mobile game that takes the player through the history that made chess in a turn-based match-3 board game.
 4. Hecatomb Adventures (Blood Brothers) - a dark fantasy RPG mobile game designed from the DeNA based Blood Brothers
 5. Moves21 Adventures (Snood 21) - a mobile solitaire card game based on the motorola Snood 21. The player must solve each moves21 stage to defeat the invading bugs and advance to the next stage.
-6. Pentagon Adventures - a match-3 
-7. All Messenger
-8. 
+6. Pentagon Adventures - a match-3 rpg that uses pentagon shapes to defeat the invading forces on The Pentagon.
+7. All Messenger - a mobile app that allows you to login to all your social media apps in one place.
