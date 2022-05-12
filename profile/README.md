@@ -8,3 +8,6 @@ Project Ideas
 5. Moves21 Adventures (Snood 21) - a mobile solitaire card game based on the motorola Snood 21. The player must solve each moves21 stage to defeat the invading bugs and advance to the next stage.
 6. Pentagon Adventures - a match-3 rpg that uses pentagon shapes to defeat the invading forces on The Pentagon.
 7. All Messenger - a mobile app that allows you to login to all your social media apps in one place.
+8. Dope Wars - a mobile strategy game where you are the head of your own mafia and you try to control the guns and drugs trade
+9. Chatbot - a software that simulates human-like conversations with users via text messages
+10. 
