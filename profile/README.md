@@ -12,3 +12,5 @@ Project Ideas
 9. Chatbot - a software that simulates human-like conversations with users via text messages
 10. Programming Tutorial mobile app for android
 11. Programming Tutorial mobile app for ios
+12. Cricket Twenty20 - a mobile strategy sports game for cricket
+13. Cricket Master - a mobile strategy sports game based on the ODI cricket game
